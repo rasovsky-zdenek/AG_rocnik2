@@ -1,2 +1,2 @@
-# AG_rocnik2
+# AG 2. ročník
 Projekty pro 2. ročník IVT AG Štěpánská.
